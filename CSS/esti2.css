@@ -1,0 +1,28 @@
+*{
+    margin:10px ;
+    padding: 10px;
+ }
+ .contenedor{
+ margin:  auto;
+ background-image: url(/IMA/wallpaperflare.com_wallpaper\ \(2\).jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ border: 1px solid rgb(211, 122, 5);
+ }
+ #grup_bot{
+    display:  flex;
+    width: 50%;   
+ }
+ button{
+    background-color: rgb(152, 20, 20);
+    border: 1px solid rgb(21, 20, 20);
+    color: rgb(243, 234, 190);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ #letras{
+    color: rgb(243, 234, 190);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ img {
+ width: 50%;
+ }
